@@ -12,4 +12,4 @@ This repository contains core machine learning tasks completed during my interns
 - NumPy, Pandas
 - scikit-learn
 - Matplotlib, Seaborn
-- Jupyter Notebook
+- Jupyter NotebooK
